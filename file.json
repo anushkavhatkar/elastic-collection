@@ -1,6 +1,6 @@
 [
     {
-        "name": "aba",
+        "name": "Aba",
         "state": "Gujurat",
         "type": "Resist-dyed",
         "source": "Sarajo",
@@ -8,7 +8,7 @@
         "image": "/images/aba.jpeg"
     },
     {
-        "name": "abhla Bharat",
+        "name": "Abhla Bharat",
         "state": "Gujurat",
         "type": "Embroidered",
         "source": "Fashion Collection",
@@ -16,7 +16,7 @@
         "image": "/images/abhla-bharat.jpeg"
     },
     {
-        "name": "bagh",
+        "name": "Bagh",
         "state": "Punjab",
         "type": "Embroidery",
         "source": "Map Academy",
@@ -24,7 +24,7 @@
         "image": "/images/bagh.jpeg"
     },
     {
-        "name": "bagru",
+        "name": "Bagru",
         "state": "Rajasthan",
         "type": "Block printed",
         "source": "Textile Value Chain",
@@ -32,7 +32,7 @@
         "image": "/images/bagru.png"
     },
     {
-        "name": "baluchari",
+        "name": "Baluchari",
         "state": "West Bengal",
         "type": "Hand-woven",
         "source": "Utsavpedia",
@@ -40,7 +40,7 @@
         "image": "/images/baluchari.jpeg"
     },
     {
-        "name": "bandha ikkat",
+        "name": "Bandha ikkat",
         "state": "Orissa",
         "type": "Resist-dyed",
         "source": "Gitagged",
@@ -48,7 +48,7 @@
         "image": "/images/bandha.jpeg"
     },
     {
-        "name": "bandhini",
+        "name": "Bandhini",
         "state": "Rajasthan",
         "type": "Resist-dyed",
         "source": "Peachmode",
@@ -56,7 +56,7 @@
         "image": "/images/bandhini.jpeg"
     },
     {
-        "name": "benaras brocade",
+        "name": "Benaras brocade",
         "state": "Uttar Pradesh",
         "type": "Hand-woven",
         "source": "Sahapedia",
@@ -64,7 +64,7 @@
         "image": "/images/benaras-brocade.jpeg"
     },
     {
-        "name": "chamba rumbal",
+        "name": "Chamba rumbal",
         "state": "Himachal Pradesh",
         "type": "Embroidered",
         "source": "Sahapedia",
@@ -72,7 +72,7 @@
         "image": "/images/chamba-rumbal.jpeg"
     },
     {
-        "name": "chanderi",
+        "name": "Chanderi",
         "state": "Madhya Pradesh",
         "type": "Hand-woven",
         "source": "Shopolics",
@@ -80,7 +80,7 @@
         "image": "/images/chanderi.jpg"
     },
     {
-        "name": "chikankari",
+        "name": "Chikankari",
         "state": "Uttar Pradesh",
         "type": "Embroidery",
         "source": "Fibre2fashion",
