@@ -3,8 +3,8 @@ let placeholder = document.querySelector('#textile-container');
 let info = document.querySelector('.info');
 let intro = document.querySelector('#intro');
 
-// fetch("https://jumbled-ludicrous-okapi.glitch.me/source_data.json")
-fetch("/file.json")
+fetch("https://jumbled-ludicrous-okapi.glitch.me/source_data.json")
+// fetch("/file.json")
 
 
 
@@ -47,7 +47,7 @@ fetch("/file.json")
 placeholder.innerHTML = "";
 
 
-function showInfo(name, state, type, source, link, image) {
+function showInfo(name, state, type, source, link) {
     // info.innerHTML = `<p>Name: ${name}</p><p>Amount: ${amount}</p>`;
     info.innerHTML = 
 
@@ -93,6 +93,7 @@ for (let textile of textiles) {
 
         intro.style.opacity = "0%";
     });
+
 
 
 

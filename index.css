@@ -242,7 +242,18 @@ img:hover {
     }
     
     
+    .info {
+        /* display: none; */
+        z-index: 3;
+        display: flex;
+        position: fixed;
+        top: 23em;
+        width: 75%;
+        align-self: center;
+        
+        /* background-color: white; */
     
+    }
    
 
 
