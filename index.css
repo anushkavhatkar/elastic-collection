@@ -1,5 +1,6 @@
 :root {
-    font-size: 24px;
+    --font-size: 24px;
+    
 }
 
 
@@ -9,31 +10,96 @@
 
 @font-face {
     font-family: "Bombay";
-    src: url(../fonts/Bombay-Mono.otf);
+    src: url(/Bombay-Mono.otf);
 }
 
 @font-face {
     font-family: "Kalice-Regular";
-    src: url(../fonts/Kalice\ Trial-Regular.otf);
+    src: url(/Kalice\ Trial-Regular.otf);
 }
 
 @font-face {
     font-family: "Kalice-Italic";
-    src: url(../fonts/Kalice\ Trial-Italic.otf);
+    src: url(/Kalice\ Trial-Italic.otf);
 }
 
 
-/* BODY STYLING */
 
+/* LOOM LINES */
 
-main {
-    display: grid; 
-    grid-template-columns: repeat(10, 1fr);
-    border: black 10px;
-}
-
-#wrapper {
-    width: 80vw;
+body {
+    width: 95%;
     margin: 0 auto;
+
+    background-image: linear-gradient(90deg, rgba(0,0,0, .1) .01em, transparent .1rem); 
+    background-size: 0.75em 0.75em;
+    
 }
 
+
+
+/* NAV BAR */
+
+nav { 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: .75em;
+}
+
+.title {
+    font-family: 'Bombay';
+    font-size: var(--font-size);
+}
+.nav {
+    /* width: 5.em; */
+    border: black .075em solid;
+    text-align: center;
+    background-color: white;
+    padding: .075em;
+
+}
+
+.seam {
+    border: black .05em dashed;
+    margin: .75em 0;
+
+}
+
+
+/* TEXT STYLING */
+
+p { 
+    font-family: 'Kalice-Regular';
+    font-size: calc(var(--font-size)*0.75);
+    letter-spacing: 0.03em;
+    line-height: 125%;
+}
+
+.bordered {
+    border: black .075em solid;
+    border-radius: .5em;
+    padding: .25em .85em;
+    /* width: 3.75em; */
+}
+
+
+
+/* INTRO BOX */
+
+#intro {
+    width: 25%;
+    background-color: white;
+    align-items: flex-end;
+}
+
+
+#flex {
+    display: flex;
+    flex-direction: row;
+}
+
+
+textileimg {
+    width: 400px;
+}
