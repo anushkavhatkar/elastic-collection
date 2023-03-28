@@ -1,0 +1,266 @@
+[
+    {
+        "name": "Aba",
+        "state": "Gujurat",
+        "type": "Resist-dyed",
+        "source": "Sarajo",
+        "link": "https://www.sarajo.com/product/embroidered-aba/",
+        "image": "./images/aba.jpeg"
+    },
+    {
+        "name": "Abhla Bharat",
+        "state": "Gujurat",
+        "type": "Embroidered",
+        "source": "Fashion Collection",
+        "link": "http://www.fashioncollectionpak.com/sheesha-embroidery/",
+        "image": "./images/abhla-bharat.jpeg"
+    },
+    {
+        "name": "Bagh",
+        "state": "Punjab",
+        "type": "Embroidery",
+        "source": "Map Academy",
+        "link": "https://mapacademy.io/article/bagh-embroidery/",
+        "image": "./images/bagh.jpeg"
+    },
+    {
+        "name": "Bagru",
+        "state": "Rajasthan",
+        "type": "Block printed",
+        "source": "Textile Value Chain",
+        "link": "https://textilevaluechain.in/in-depth-analysis/creating-innovative-products-from-traditional-bagru-to-encourage-its-use-in-modern-era/",
+        "image": "./images/bagru.png"
+    },
+    {
+        "name": "Baluchari",
+        "state": "West Bengal",
+        "type": "Hand-woven",
+        "source": "Utsavpedia",
+        "link": "https://www.utsavpedia.com/motifs-embroideries/baluchari-sari-bengali-delight/",
+        "image": "./images/baluchari.jpeg"
+    },
+    {
+        "name": "Bandha Ikkat",
+        "state": "Orissa",
+        "type": "Resist-dyed",
+        "source": "Gitagged",
+        "link": "https://www.gitagged.com/product/orissa-ikat-saree-online-shopping/",
+        "image": "./images/bandha.jpeg"
+    },
+    {
+        "name": "Bandhini",
+        "state": "Rajasthan",
+        "type": "Resist-dyed",
+        "source": "Peachmode",
+        "link": "https://peachmode.com/blogs/peachmode/all-you-need-to-know-about-bandhani",
+        "image": "./images/bandhini.jpeg"
+    },
+    {
+        "name": "Benaras Brocade",
+        "state": "Uttar Pradesh",
+        "type": "Hand-woven",
+        "source": "Sahapedia",
+        "link": "https://www.sahapedia.org/woven-embroidery-the-brocades-of-banaras",
+        "image": "./images/benaras-brocade.jpeg"
+    },
+    {
+        "name": "Chamba Rumbal",
+        "state": "Himachal Pradesh",
+        "type": "Embroidered",
+        "source": "Sahapedia",
+        "link": "https://www.sahapedia.org/chamba-rumal-embroidery-art-himachal-pradesh",
+        "image": "./images/chamba-rumbal.jpeg"
+    },
+    {
+        "name": "Chanderi",
+        "state": "Madhya Pradesh",
+        "type": "Hand-woven",
+        "source": "Shopolics",
+        "link": "https://www.shopolics.com/product/cream-yellow-and-green-flower-design-silk-chanderi-fabric-9034",
+        "image": "./images/chanderi.jpg"
+    },
+    {
+        "name": "Chikankari",
+        "state": "Uttar Pradesh",
+        "type": "Embroidery",
+        "source": "Fibre2fashion",
+        "link": "https://www.fibre2fashion.com/fabrics/embroidery-fabric-suppliers-18156994",
+        "image": "./images/chikankari.jpeg"
+    },
+    {
+        "name": "Gharchola",
+        "state": "Gujurat",
+        "type": "Embroidered",
+        "source": "Utsavpedia",
+        "link": "https://www.utsavpedia.com/motifs-embroideries/gharchola-from-gujarat/",
+        "image": "./images/gharchola.jpg"
+    },
+    {
+        "name": "Jamdani",
+        "state": "Uttar Pradesh",
+        "type": "Hand-woven",
+        "source": "Asiainch",
+        "link": "https://asiainch.org/craft/silk-jamdani-of-varanasi-uttar-pradesh/",
+        "image": "./images/jamdani.jpeg"
+    },
+    {
+        "name": "Kalamkari",
+        "state": "Andhra Pradesh",
+        "type": "Block printed",
+        "source": "Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Kalamkari",
+        "image": "./images/kalamkari.jpg"
+    },
+    {
+        "name": "Kanjeevaram",
+        "state": "Tamil Nadu",
+        "type": "Hand-woven",
+        "source": "Hayagrivas",
+        "link": "https://www.hayagrivassilkhouse.com/product/hayagrivas-kanjivaram-silk-saree-bbb1831f3-3/",
+        "image": "./images/kanjeevaram.jpeg"
+    },
+    {
+        "name": "Kantha",
+        "state": "Bengal",
+        "type": "Embroidered",
+        "source": "Chapel Collection",
+        "link": "https://www.chapelcollection.com/lifestyle/silk-kantha-panel-2",
+        "image": "./images/kantha.jpeg"
+    },
+    {
+        "name": "Kasuti",
+        "state": "Karnataka",
+        "type": "Embroidered",
+        "source": "Kasuti",
+        "link": "https://www.outlookindia.com/outlooktraveller/explore/story/72739/kasuti-the-gi-tagged-geometric-embroidery-from-karnataka",
+        "image": "./images/kasuti.jpeg"
+    },
+    {
+        "name": "Lambadi",
+        "state": "Karnataka",
+        "type": "Embroidered",
+        "source": "Google Arts and Culture",
+        "link": "https://artsandculture.google.com/story/WQUR6eiNqsLhJw",
+        "image": "./images/lambadi.jpeg"
+    },
+    {
+        "name": "Leheriya",
+        "state": "Gujurat",
+        "type": "Resist-dyed",
+        "source": "Likasha",
+        "link": "https://www.likasha.com/product/white-pink-leheriya-cotton-fabric-28079",
+        "image": "./images/leheriya.jpeg"
+    },
+    {
+        "name": "Mochi Bharat",
+        "state": "Gujurat",
+        "type": "Embroidered",
+        "source": "Woven Souls",
+        "link": "https://wovensouls.com/collections/antique-vintage-collectible-textile-embroidery-weaving/products/942-vintage-embroidery-door-decor-panel-from-gujarat-mochi-bharat-kaam",
+        "image": "./images/mochi-bharat.jpeg"
+    },
+    {
+        "name": "Mothra",
+        "state": "Rajasthan",
+        "type": "Resist-dyed",
+        "source": "Seerat",
+        "link": "https://seerat.shop/product/handcrafted-leheriya-mothra-on-kota-silk-saree/",
+        "image": "./images/mothra.jpeg"
+    },
+    {
+        "name": "Moti Bharat",
+        "state": "Gujurat",
+        "type": "Embroidered",
+        "source": "D'Source",
+        "link": "https:https://www.dsource.in/resource/moti-bharat/designs-and-motifs",
+        "image": "./images/moti-bharat.jpeg"
+    },
+    {
+        "name": "Paithani",
+        "state": "Maharashtra",
+        "type": "Hand-woven",
+        "source": "playcreatelearn",
+        "link": "https://playcreatelearn.wordpress.com/2013/06/08/paithani-sari/",
+        "image": "./images/paithani.jpeg"
+    },
+    {
+        "name": "Patola Ikkat",
+        "state": "Gujurat",
+        "type": "Resist-dyed",
+        "source": "Sarajo",
+        "link": "https://www.sarajo.com/product/silk-patola/",
+        "image": "./images/patola.jpeg"
+    },
+    {
+        "name": "Phulkari",
+        "state": "Punjab",
+        "type": "Embroidered",
+        "source": "Directcreate",
+        "link": "https://www.directcreate.com/craft/phulkari",
+        "image": "./images/phulkari.jpeg"
+    },
+    {
+        "name": "Pipli",
+        "state": "Orissa",
+        "type": "Embroidered",
+        "source": "Flickr",
+        "link": "https://www.flickr.com/photos/satyaki_23/8542007006",
+        "image": "./images/pipli.jpeg"
+    },
+    {
+        "name": "Pochampalli Ikkat",
+        "state": "Andhra Pradesh",
+        "type": "Resist-dyed",
+        "source": "Desicraftshop",
+        "link": "https://desicraftshop.wordpress.com/2013/07/24/pure-silk-fabrics-from-india-buy-online-ikat-silk-or-pochampally-silk-fabrics-from-south-india/",
+        "image": "./images/pochampalli.jpeg"
+    },
+    {
+        "name": "Sozni",
+        "state": "Kashmir",
+        "type": "Embroidered",
+        "source": "Google Arts and Culture",
+        "link": "https://artsandculture.google.com/asset/sozni-embroidery-butis/fQHx0oEyxDqtjA",
+        "image": "./images/sozni.jpeg"
+    },
+    {
+        "name": "Suf",
+        "state": "Gujurat",
+        "type": "Embroidered",
+        "source": "Directcreate",
+        "link": "https://www.directcreate.com/craft/suf-embroidery",
+        "image": "./images/suf.jpeg"
+    },
+    {
+        "name": "Sujani",
+        "state": "Bihar",
+        "type": "Embroidered",
+        "source": "Sue Reno Studio",
+        "link": "http://suereno.blogspot.com/2011/04/sujani-embroidery-from-bihar.html",
+        "image": "./images/sujani.jpeg"
+    },
+    {
+        "name": "Telia Rumal Ikkat",
+        "state": "Andhra Pradesh",
+        "type": "Resist-dyed",
+        "source": "Antimakkhana",
+        "link": "https://antimakhanna.com/ikat-or-bandha-of-odisha/",
+        "image": "./images/telia-rumal.jpeg"
+    },
+    {
+        "name": "Zalakdozi",
+        "state": "Kashmir",
+        "type": "Embroidered",
+        "source": "Textileschool",
+        "link": "https://www.textileschool.com/7101/indian-traditional-textile-from-kashmir-kashida-embroidery/",
+        "image": "./images/zalakdozi.jpeg"
+    },
+    {
+        "name": "Zardozi",
+        "state": "Uttar Pradesh",
+        "type": "Embroidered",
+        "source": "The Zay",
+        "link": "https://thezay.org/metal-thread-1/",
+        "image": "./images/zardozi.jpeg"
+    }
+]

@@ -1,0 +1,39 @@
+:root {
+    font-size: 24px;
+}
+
+
+
+/* FONTS */
+
+
+@font-face {
+    font-family: "Bombay";
+    src: url(../fonts/Bombay-Mono.otf);
+}
+
+@font-face {
+    font-family: "Kalice-Regular";
+    src: url(../fonts/Kalice\ Trial-Regular.otf);
+}
+
+@font-face {
+    font-family: "Kalice-Italic";
+    src: url(../fonts/Kalice\ Trial-Italic.otf);
+}
+
+
+/* BODY STYLING */
+
+
+main {
+    display: grid; 
+    grid-template-columns: repeat(10, 1fr);
+    border: black 10px;
+}
+
+#wrapper {
+    width: 80vw;
+    margin: 0 auto;
+}
+
